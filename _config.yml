@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xincong YANG / XY Lab"
+title                    : "CC LAB"
 title_separator          : "-"
 name                     : &name "Xincong YANG"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xincong YANG"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor \n Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Pdz9mMUAAAAJ&hl=zh-TW&oi=ao"
   email            : "yangxincong@hit.edu.cn"
