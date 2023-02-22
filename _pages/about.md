@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to CC Lab!"
+title: "Welcome to CILab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-About CC Lab
+About CI Lab
 =====
-Welcome to CC Lab, where the 1st C refers to [聪](https://baike.baidu.com/item/%E8%81%B0/4366308) / [聰](https://zh.m.wiktionary.org/zh-hant/%E8%81%B0) (cong in Mandarin, cung in Cantonese) and the 2nd C represents for the AECO industry (Architecture, Engineering, Construction, and Operation). CC Lab was formed in 2023 by Dr. Yang.
+Welcome to Construction Informatics / Collective Intelligence Laboratory!
+
+We a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures!
+
+CI Lab was established by Dr. Xincong Yang at Harbin Institute of Technology, Shenzhen, in 2023.
 
 Vision
 -----
-To drive for automation, intelligence, and excellence of the AECO industry.
+To drive for automation, intelligence, and excellence of the Architecture, Engineering, Construction, Maintenance, and Operation (AECO) industry.
 
 Mission
 -----
