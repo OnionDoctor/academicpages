@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CC LAB"
+title                    : "CI LAB"
 title_separator          : "-"
 name                     : &name "Xincong YANG"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xincong YANG"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor @HITSZ"
   location         : "Shenzhen, China"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
