@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](../_site/images/site-logo.png)
+![cilab-logo](../images/cilab-logo.png){:width="20%" .align-center}
 
 Welcome to **Construction Informatics** / **Collective Intelligence** **Laboratory**!
 
@@ -26,6 +26,9 @@ To drive for automation, intelligence, and excellence of the Architecture, Engin
 
 Our Mission / 我们的使命
 -----
+
+![ce-welcome](../images/ce-welcome.jpg){:width="100%" .align-center}
+
 To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, and future technical skills.
 
 我们的使命是通过创新的理论和方法，包括智能物理网，机器人以及其他面向未来的技术，来切实提高中国建筑业的生产力和管理水平！
@@ -35,22 +38,28 @@ Our Group / 我们的成员
 
 **Postgraduates / 在读硕士**
 
-2021
-- MI Qingren / 米庆仁 在读
-- WANG Jianan / 王嘉楠 在读
+- 2021
+  - MI Qingren / 米庆仁 在读
+  - WANG Jianan / 王嘉楠 在读
 
-2022
-- ZHOU Zixuan / 周子璇 在读
-- MIN Jie / 闵杰 在读
-- CHEN Yu / 陈豫 在读
+- 2022
+  - ZHOU Zixuan / 周子璇 在读
+  - MIN Jie / 闵杰 在读
+  - CHEN Yu / 陈豫 在读
 
 **Undergraduates / 在读本科**
 
-2023
-- LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
+- 2023
+  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
 
-2022
-- JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
-- YE Jingang (Tongji University) / 叶进刚 保送同济大学
-- HUANG Wuguang (HITSZ) / 黄武光 在读
+- 2022
+  - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
+  - YE Jingang (Tongji University) / 叶进刚 保送同济大学
+  - HUANG Wuguang (HITSZ) / 黄武光 在读
+
+**Master of Engineering / 工程管理硕士**
+
+- 2021
+  - ZHENG Yang / 郑杨 在读
+  - ZHANG Meng / 张孟 在读
 
