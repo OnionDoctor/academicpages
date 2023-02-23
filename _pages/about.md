@@ -10,15 +10,11 @@ redirect_from:
 
 Welcome to **Construction Informatics** / **Collective Intelligence** **Laboratory**! / 欢迎！
 
-We a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures!
-
-CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
+We a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
 
 欢迎来到**建筑信息化/群体智能实验室**！
 
-我们从事土木工程与计算机、电子信息工程、管理学的交叉科学研究，为建设更加和谐和开放的人居环境而不懈努力！
-
-CI实验室成立于2023年，目前位于哈尔滨工业大学（深圳）土木与环境工程学院。
+我们从事土木工程与计算机、电子信息工程、管理学的交叉科学研究，为建设更加和谐和开放的人居环境而不懈努力！CI实验室成立于2023年，目前位于哈尔滨工业大学（深圳）土木与环境工程学院。
 
 Our Vision / 我们的愿景
 -----
@@ -35,24 +31,24 @@ To improve the performance of the AECO industry in China by providing novel theo
 Our Group / 我们的成员
 -----
 
-**Postgraduates/MSC:**
+**Postgraduates / 在读硕士**
 
 2021
-- MI Qingren 米庆仁 在读
-- WANG Jianan 王嘉楠 在读
+- MI Qingren / 米庆仁 在读
+- WANG Jianan / 王嘉楠 在读
 
 2022
-- ZHOU Zixuan 周子璇 在读
-- MIN Jie 闵杰 在读
-- CHEN Yu 陈豫 在读
+- ZHOU Zixuan / 周子璇 在读
+- MIN Jie / 闵杰 在读
+- CHEN Yu / 陈豫 在读
 
-**Undergraduates:**
+**Undergraduates / 在读本科**
 
 2023
-- LIU Hang (HITSZ) 刘行 保送哈尔滨工业大学（深圳）
+- LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
 
 2022
-- JIN Xinxiang (Tsinghua University) 金新翔 保送清华大学
-- YE Jingang (Tongji University) 叶进刚 保送同济大学
-- HUANG Wuguang 
+- JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
+- YE Jingang (Tongji University) / 叶进刚 保送同济大学
+- HUANG Wuguang (HITSZ) / 黄武光 在读
 
