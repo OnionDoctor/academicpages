@@ -1,5 +1,5 @@
 ---
-permalink: /academicpages/
+permalink: /
 title: "Welcome to CI Lab!"
 excerpt: "About me"
 author_profile: true
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![cilab-logo](/images/pages/about/cilab-logo.png){:width="20%" .align-center}
+![cilab-logo](/academicpages/images/pages/about/cilab-logo.png){:width="20%" .align-center}
 
 Welcome to **Construction Informatics** / **Collective Intelligence** **Laboratory**!
 
@@ -27,7 +27,7 @@ To drive for automation, intelligence, and excellence of the Architecture, Engin
 Our Mission / 我们的使命
 -----
 
-![ce-welcome](/images/pages/about/ce-welcome.jpg){:width="100%" .align-center}
+![ce-welcome](/academicpages/images/pages/about/ce-welcome.jpg){:width="100%" .align-center}
 
 To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, and future technical skills.
 
