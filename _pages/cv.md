@@ -9,32 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Education / 教育经历
+-----
+- Dual-B.S. in **Civil Engineering**, *Harbin Institute of Technology*, 2012
+- Dual-B.S. in **Project Management**, *Harbin Institute of Technology*, 2012
+- M.S. in **Architecture and Civil Engineering**, *Harbin Institute of Technology*, 2014
+- Dual-Ph.D in **Structural Engineering**, *Harbin Institute of Technology*, 2019
+- Dual-Ph.D in **Construction Informatics**, *The Hong Kong Polytechnic University*, 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 双学士，**土木工程**，*哈尔滨工业大学*，2012
+- 双学士，**工程管理**，*哈尔滨工业大学*，2012
+- 硕士，**建筑与土木工程**，*哈尔滨工业大学*，2014
+- 双博士，**结构工程**，*哈尔滨工业大学*，2019
+- 双博士，**工程信息学**，*香港理工大学*，2019
+
+
+
+Work experience / 工作经历
+-----
+- 2019-2021 Smart Construction Laboratory @ PolyU
+  - Research Assistant / Postdoctoral Fellow
+  - Supervisor: Chair Prof. Heng Li
+- 2021-now School of Civil and Environmental Engineering @ HITSZ
+  - Assistant Professor
+
+
+- 2019-2021 智能建造实验室 @ 香港理工大学
+  - 研究助理 / 博士后研究员
+  - 导师：李恒 讲席教授
+- 2021-now 土木与环境工程学院 @ 哈尔滨工业大学（深圳）
+  - 助理教授
+
+
+
+Service / 公共服务
+-----
+- Journal reviewer
+  - Automation in Construction
+  - Advanced Engineering Informatics
+  - Computer-aided in Civil and Infrastructures
+  - Journal of Building Engineering
+  - Construction and Building Materials
+  - Engineering Applications of Artificial Intelligence
+  - Journal of Infrastructure Intelligence and Resilience
+  - Scientific Reports
+- Open access reviewer
+  - Sensors
+  - Axioms
+  - Remote Sensing
+  - Electronics
+  - Computers
+- Member
+  - 中国建筑学会工程诊治与运维分会
+  - 人工智能协会
+
+
 
 Publications
 ======
@@ -54,6 +84,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
