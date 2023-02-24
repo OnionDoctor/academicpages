@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /academicpages/
 title: "Welcome to CI Lab!"
 excerpt: "About me"
 author_profile: true
