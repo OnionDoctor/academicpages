@@ -1,0 +1,12 @@
+---
+title: "Research on Non-contact Recognition Method of Building Exterior Wall Defects Based on Multi-modal Fusion 300,000 (In progress)"
+excerpt: "国家自然科学基金青年基金-多模态感知融合的高层建筑外墙缺陷非接触识别方法研究-30万元（在研）"
+collection: portfolio
+---
+
+
+Abstract
+-----
+Falling objects from exterior walls of high-rise buildings caused by the degradation of construction materials has become one of the open challenges in the “post-urbanization” era. At present, the academia and the industry commonly utilize visible light images to detect cracks on the surface; or use infrared images to detect hollow behind the surface of high-rise buildings. However, the exterior-wall defects are widespread and interconnected. The challenge is evident that accurately and completely detect all defects only depends on a single data acquisition. In response to this problem, this research draws upon from the principle of multi-modal data fusion, and proposes an approach to identify multiple defects on the exterior walls of high-rise buildings through the integration of multi-model data, such as visible light images, infrared images, and BIM models. The research is composed of three parts: firstly, establish a spatial alignment method for multi-modal perception data; and then devise a multi-level fusion method that mixes pixel-level, feature-level, and decision-making-level strategies; finally, build up a multi-objective and multi-scale exterior-wall defect recognition model using deep neural networks and generative adversarial networks. The research results could achieve an accurate and complete identification of the defects on the exterior-walls of high-rise buildings, serving a smart management tool for urban development whilst it is transforming from incremental expansion to stock optimization. In addition, in terms of engineering multi-modal data fusion and the public safety management of smart city, this research could also rationalize governance and controls, optimize human performance and innovating with technology.
+
+高层建筑外墙材料老化脱落导致的高空坠物致害伤人，已成为我国“后城镇化时代”城市管治的重要挑战之一。目前，学界和业界通常采用可见光图像对高层建筑外墙表面的裂缝进行检测，或者采用红外图像对空鼓进行检测。然而外墙缺陷点多面广且相互关联，仅依赖单一来源外墙感知数据，无法准确全面地对外墙缺陷进行有效的识别。本项目针对该问题，创新性地利用多模态信息互补原理，开展融合可见光、红外图像和BIM模型等多模态数据的高层建筑外墙缺陷识别方法的研究，包括首先建立多模态外墙感知数据的空间对齐方法，进而建立混合像素层、特征层、决策层的多层次外墙感知数据融合方法，最后建立基于深度学习和生成学习的多目标、多尺度外墙缺陷识别协同学习模型。本项目的研究成果可实现对高层建筑外墙缺陷准确全面的识别，为我国城市发展由增量扩张转变为存量优化提供智能管理工具，对工程多模态数据融合、智慧城市公共安全管理等领域均具有重要的理论和实践意义。
