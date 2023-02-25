@@ -65,3 +65,17 @@ Our Group / 我们的成员
   - ZHENG Yang / 郑杨 在读
   - ZHANG Meng / 张孟 在读
 
+
+Join Us / 加入我们
+-----
+
+**China Mainland Students / 统招硕士**
+
+每年2名，包括土木工程、工程管理均可申请。请申请人发送简历、成绩单等到 yangxincong@hit.edu.cn
+
+**Non-China Mainland Students / 留学生等**
+
+Master of Science (1~2/Year), applicants could apply for CSC/ Guangdong Province Government/ Shenzhen University Town/ HITSZ scholarships. Notably, applicants should first get the admission from the HITSZ international office. (please refer to http://en.hitsz.edu.cn/Admissions.htm for more information). Applicants are invited to send your CV and Transcripts to yangxincong@hit.edu.cn
+
+
+
