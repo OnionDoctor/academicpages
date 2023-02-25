@@ -12,8 +12,8 @@ This course introduces some basic knowledge, basic skills and basic principles i
 
 This course is taught by me and Prof. Fengliang ZHANG. 本课程由张凤亮教授与我一同讲授。
 
-![2021-contech](/images/teaching/contech/2021-contech.jpg){:width="100%" .align-center}
-<!-- ![2022-bim](/images/teaching/bim/2022-bim.jpg){:width="100%" .align-center} -->
+<!-- ![2021-contech](/images/teaching/contech/2021-contech.jpg){:width="100%" .align-center} -->
+![2021-contech](/academicpages/images/teaching/contech/2021-contech.jpg){:width="100%" .align-center}
 
 
 Course Description / 课程简介
