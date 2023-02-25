@@ -1,6 +1,6 @@
 ---
 title: "Research on Key Technologies for Digital Twin of Dual-Carbon Goal Driven by Knowledge and Data, RMB 300,000 (On-going)"
-excerpt: "知识和数据协同驱动的数字孪生双碳系统关键技术研究，30万元（在研）<br/><img src='/academicpages/images/projects/2022-dt-carbon/content.png'>"
+excerpt: "知识和数据协同驱动的数字孪生双碳系统关键技术研究，30万元（在研）<br/><img src='/academicpages/images/projects/2022-dt-carbon/content.jpg'>"
 collection: portfolio
 ---
 
