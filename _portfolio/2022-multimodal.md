@@ -1,6 +1,6 @@
 ---
-title: "Research on Non-contact Recognition Method of Building Exterior Wall Defects Based on Multi-modal Fusion 300,000 (In progress)"
-excerpt: "国家自然科学基金青年基金-多模态感知融合的高层建筑外墙缺陷非接触识别方法研究-30万元（在研）"
+title: "Research on Non-contact Recognition Method of Building Exterior Wall Defects Based on Multi-modal Fusion, RMB 300,000 (On-going)"
+excerpt: "多模态感知融合的高层建筑外墙缺陷非接触识别方法研究，30万元（在研）<br/><img src='/academicpages/images/projects/2022-multimodal/content.png'>"
 collection: portfolio
 ---
 

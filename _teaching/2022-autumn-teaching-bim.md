@@ -8,8 +8,6 @@ date: 2022-09-01
 location: "Shenzhen, China"
 ---
 
-This course introduces the fundamental theory and knowledge of the Building Information Modeling (BIM), the basic modelling skills, and the crucial principles in the construction industry. / 本课程主要介绍数字建造体系中先进建筑模型（BIM）技术的基础理论知识、基本建模技巧和工程实践原则。
-
 <!-- ![2022-bim](/images/teaching/bim/2022-bim.jpg){:width="100%" .align-center} -->
 ![2022-bim](/academicpages/images/teaching/bim/2022-bim.jpg){:width="100%" .align-center}
 

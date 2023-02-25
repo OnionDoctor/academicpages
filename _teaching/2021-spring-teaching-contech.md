@@ -8,10 +8,6 @@ date: 2021-03-01
 location: "Shenzhen, China"
 ---
 
-This course introduces some basic knowledge, basic skills and basic principles in the construction of civil engineering. / 本课程主要介绍土木工程施工领域的基础知识、技能以及原理方法等。
-
-This course is taught by me and Prof. Fengliang ZHANG. 本课程由张凤亮教授与我一同讲授。
-
 <!-- ![2021-contech](/images/teaching/contech/2021-contech.jpg){:width="100%" .align-center} -->
 ![2021-contech](/academicpages/images/teaching/contech/2021-contech.jpg){:width="100%" .align-center}
 
@@ -23,6 +19,7 @@ This course introduces some basic knowledge, basic skills and basic principles i
 
 本课程主要介绍在土木工程施工过程中的一些基础知识、基本技巧和基本原则。通过课程的讲授、习题等使学生熟悉土木工程施工技术的基本过程，熟悉土方工程、桩基础工程、钢筋混凝土结构工程、预应力混凝土工程、砌筑工程、钢结构工程、脚手架工程、结构吊装工程、防水工程、装饰装修工程等相关专业知识，掌握土木工程施工的一般技术及相关知识，锻炼沟通交流协作能力，能够理论结合实际，锻炼基于现有知识通过分析研究解决复杂问题的能力，为将来从事土木工程施工技术管理及相关工作打下基础。
 
+This course is taught by me and Prof. Fengliang ZHANG. 本课程由张凤亮教授与我一同讲授。
 
 Syllabus / 课程大纲
 -----
