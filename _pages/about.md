@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome to **Construction Informatics** / **Collective Intelligence** **Laboratory**!
 
-We a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
+We are a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
 
 欢迎来到**建筑信息化/群体智能实验室**！
 
