@@ -5,8 +5,9 @@ permalink: /publication/2023-02-02-multimodal-unet
 excerpt: '面向外墙多缺陷检测的多模态可见光与红外融合技术比较'
 date: 2023-02-02
 venue: 'Journal of Infrastructure Intelligence and Resilience'
-paperurl: ''
-citation: 'In progress'
+paperurl: 'https://authors.elsevier.com/sd/article/S277299152300004X'
+citation: 'Yang, X., Guo, R., & Li, H. (2023). Comparison of multimodal RGB-thermal fusion techniques for exterior wall multi-defect detection. Journal of Infrastructure Intelligence and Resilience, 2(2), 100029. doi:https://doi.org/10.1016/j.iintel.2023.100029
+'
 ---
 
 
