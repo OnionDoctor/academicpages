@@ -11,7 +11,7 @@ redirect_from:
 ![cilab-logo](/academicpages/images/pages/about/cilab-logo.png){:width="20%" .align-center}
 <!-- ![cilab-logo](/images/pages/about/cilab-logo.png){:width="20%" .align-center} -->
 
-Welcome to **Construction Informatics** / **Collective Intelligence** **Laboratory**!
+Welcome to **Smart Construction and Intelligent Maintenance Lab (SCIMLab)**!
 
 We are a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
 
@@ -51,12 +51,12 @@ Our Group / 我们的成员
 
 **Undergraduates / 在读本科**
 
-- 2023
-  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
-
 - 2022
+  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
   - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
   - YE Jingang (Tongji University) / 叶进刚 保送同济大学
+  
+- 2023
   - HUANG Wuguang (HITSZ) / 黄武光 在读
 
 **Master of Engineering / 工程管理硕士**
