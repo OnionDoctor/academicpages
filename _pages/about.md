@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to CI Lab!"
+title: "Welcome to SCIM Lab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,17 +13,17 @@ redirect_from:
 
 Welcome to **Smart Construction and Intelligent Maintenance Lab (SCIMLab)**!
 
-We are a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! CI Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
+We are a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! SCIM Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
 
-欢迎来到**建筑信息化/群体智能实验室**！
+欢迎来到**智能建造与智慧运维实验室**！
 
-我们从事土木工程与计算机、电子信息工程、管理学的交叉科学研究，为建设更加和谐和开放的人居环境而不懈努力！CI实验室成立于2023年，目前位于哈尔滨工业大学（深圳）土木与环境工程学院。
+我们从事土木工程与计算机、电子信息工程、管理学、材料学的交叉科学研究，为建设更加和谐和开放的人居环境而不懈努力！SCIM实验室成立于2023年，目前位于哈尔滨工业大学（深圳）土木与环境工程学院。
 
 Our Vision / 我们的愿景
 -----
-To drive for automation, intelligence, and excellence of the Architecture, Engineering, Construction, Maintenance, and Operation (AECO) industry.
+To drive for automation, digitalization, intelligence, and excellence of the Architecture, Engineering, Construction, Maintenance, and Operation (AECO) industry.
 
-我们的愿景是让建筑业全产业数字化、信息化、智能化！
+我们的愿景是让建筑业全产业自动化、数字化、智能化！
 
 Our Mission / 我们的使命
 -----
