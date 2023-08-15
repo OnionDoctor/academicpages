@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-![cilab-logo](/academicpages/images/pages/about/scim-full.png){:width="40%" .align-center}
-<!-- ![cilab-logo](/images/pages/about/scim-full.png){:width="20%" .align-center} -->
+
+![cilab-logo](/academicpages/images/pages/about/scim-full.png){:width="60%" .align-center}
+<!-- ![cilab-logo](/images/pages/about/scim-full.png){:width="60%" .align-center} -->
+
 
 Welcome to **Smart Construction and Intelligent Maintenance Lab (SCIMLab)**!
 
