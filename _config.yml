@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CI LAB"
+title                    : "SCIMLab"
 title_separator          : "-"
 name                     : &name "Xincong YANG"
 description              : &description "personal description"
