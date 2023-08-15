@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to **Smart Construction and Intelligent Maintenance Lab (SCIMLab)**!
+
+欢迎来到**智能建造与智慧运维实验室**！
 
 ![cilab-logo](/academicpages/images/pages/about/scim-full.png){:width="60%" .align-center}
 <!-- ![cilab-logo](/images/pages/about/scim-full.png){:width="60%" .align-center} -->
 
-
-Welcome to **Smart Construction and Intelligent Maintenance Lab (SCIMLab)**!
-
 We are a multidisciplinary team of civil engineers, electrical engineers, software engineers, and project managers. We utilize principles from cross scientific domains to develop and construct flexible and bright buildings and infrastructures! SCIM Lab was established by Dr. Xincong Yang at [School of Civil and Environmental Engineering](http://sce.hitsz.edu.cn/), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/index.html), in 2023.
-
-欢迎来到**智能建造与智慧运维实验室**！
 
 我们从事土木工程与计算机、电子信息工程、管理学、材料学的交叉科学研究，为建设更加和谐和开放的人居环境而不懈努力！SCIM实验室成立于2023年，目前位于哈尔滨工业大学（深圳）土木与环境工程学院。
 
@@ -59,7 +57,7 @@ Our Group / 我们的成员
   - YE Jingang (Tongji University) / 叶进刚 保送同济大学
   
 - 2023
-  - HUANG Wuguang (HITSZ) / 黄武光 在读
+  - HUANG Wuguang (HITSZ) / 黄武光 保送哈尔滨工业大学（深圳）
 
 **Master of Engineering / 工程管理硕士**
 
