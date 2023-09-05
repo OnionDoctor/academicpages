@@ -41,13 +41,18 @@ Our Group / 我们的成员
 **Postgraduates / 在读硕士**
 
 - 2021
-  - MI Qingren / 米庆仁 在读
-  - WANG Jianan / 王嘉楠 在读
+  - MI Qingren (Huaqiao University) / 米庆仁（华侨大学）
+  - WANG Jianan (Northeast Agricultural University) / 王嘉楠（东北农业大学）
 
 - 2022
-  - ZHOU Zixuan / 周子璇 在读
-  - MIN Jie / 闵杰 在读
-  - CHEN Yu / 陈豫 在读
+  - ZHOU Zixuan (Harbin Insitute of Technology, Weihai) / 周子璇（哈尔滨工业大学（威海））
+  - MIN Jie (Harbin Insitute of Technology, Weihai) / 闵杰（哈尔滨工业大学（威海））
+  - CHEN Yu (Wuhan University of Technology) / 陈豫（武汉理工大学）
+
+- 2023
+  - YAN Xiangjun (Shandong University) / 闫相君（山东大学）
+  - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
+  - LIU Hang (Harbin Institute of Technology, Shenzhen) / 刘行（哈尔滨工业大学（深圳））
 
 **Undergraduates / 在读本科**
 
@@ -62,5 +67,8 @@ Our Group / 我们的成员
 **Master of Engineering / 工程管理硕士**
 
 - 2021
-  - ZHENG Yang / 郑杨 在读
-  - ZHANG Meng / 张孟 在读
+  - ZHENG Yang / 郑杨
+  - ZHANG Meng / 张孟
+
+- 2022
+  - FENG Yuting / 冯宇霆
