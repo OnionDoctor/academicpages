@@ -54,12 +54,14 @@ Service / 公共服务
   - Engineering Applications of Artificial Intelligence
   - Journal of Infrastructure Intelligence and Resilience
   - Scientific Reports
+  - Journal of Engineering Mathematics
 - Open access reviewer
   - Sensors
   - Axioms
   - Remote Sensing
   - Electronics
   - Computers
+  - Information
 - Member
   - 中国建筑学会工程诊治与运维分会
   - 人工智能协会
