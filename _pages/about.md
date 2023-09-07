@@ -53,6 +53,7 @@ Our Group / 我们的成员
   - YAN Xiangjun (Shandong University) / 闫相君（山东大学）
   - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
   - LIU Hang (Harbin Institute of Technology, Shenzhen) / 刘行（哈尔滨工业大学（深圳））
+  - Sajib Sarkar (Southwest Petroleum University) / 宋一凡（西南石油大学） 
 
 **Undergraduates / 在读本科**
 
