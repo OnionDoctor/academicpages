@@ -55,15 +55,6 @@ Our Group / 我们的成员
   - LIU Hang (HITSZ) / 刘行（哈尔滨工业大学（深圳））
   - SAJIB SARKAR (Southwest Petroleum University) / 宋一凡（西南石油大学）
 
-**Undergraduates / 在读本科**
-
-- 2022
-  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
-  - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
-  - YE Jingang (Tongji University) / 叶进刚 保送同济大学
-  
-- 2023
-  - HUANG Wuguang (HITSZ) / 黄武光 保送哈尔滨工业大学（深圳）
 
 **Master of Engineering / 工程管理硕士**
 
@@ -73,3 +64,15 @@ Our Group / 我们的成员
 
 - 2022
   - FENG Yuting / 冯宇霆
+  - LIU Zirong / 刘子榕
+
+
+**Undergraduates / 指导本科**
+
+- 2022
+  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
+  - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
+  - YE Jingang (Tongji University) / 叶进刚 保送同济大学
+  
+- 2023
+  - HUANG Wuguang (HITSZ) / 黄武光 保送哈尔滨工业大学（深圳）
