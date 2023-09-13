@@ -45,14 +45,14 @@ Our Group / 我们的成员
   - WANG Jianan (Northeast Agricultural University) / 王嘉楠（东北农业大学）
 
 - 2022
-  - ZHOU Zixuan (Harbin Insitute of Technology, Weihai) / 周子璇（哈尔滨工业大学（威海））
-  - MIN Jie (Harbin Insitute of Technology, Weihai) / 闵杰（哈尔滨工业大学（威海））
+  - ZHOU Zixuan (HITWH) / 周子璇（哈尔滨工业大学（威海））
+  - MIN Jie (HITWH) / 闵杰（哈尔滨工业大学（威海））
   - CHEN Yu (Wuhan University of Technology) / 陈豫（武汉理工大学）
 
 - 2023
-  - YAN Xiangjun (Shandong University) / 闫相君（山东大学）
+  - YAN Xiangjun (Shandong University) / 阎相君（山东大学）
   - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
-  - LIU Hang (Harbin Institute of Technology, Shenzhen) / 刘行（哈尔滨工业大学（深圳））
+  - LIU Hang (HITSZ) / 刘行（哈尔滨工业大学（深圳））
 
 **Undergraduates / 在读本科**
 
