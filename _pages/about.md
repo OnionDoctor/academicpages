@@ -31,9 +31,9 @@ Our Mission / 我们的使命
 ![ce-welcome](/academicpages/images/pages/about/ce-welcome.jpg){:width="100%" .align-center}
 <!-- ![ce-welcome](/images/pages/about/ce-welcome.jpg){:width="100%" .align-center} -->
 
-To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, and future technical skills.
+To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, deep learning, AIGC, and future technical skills.
 
-我们的使命是通过创新的理论和方法，包括智能物理网，机器人以及其他面向未来的技术，来切实提高中国建筑业的生产力和管理水平！
+我们的使命是通过创新的理论和方法，包括智能物联网，机器人，深度学习，AIGC以及其他面向未来的技术，来切实提高中国建筑业的生产力和管理水平！
 
 Our Group / 我们的成员
 -----
@@ -65,6 +65,12 @@ Our Group / 我们的成员
 - 2022
   - FENG Yuting / 冯宇霆
   - LIU Zirong / 刘子榕
+
+
+**Research Assistants / 研究助理**
+
+- 2023
+  - PU Hongxu / 蒲虹旭
 
 
 **Undergraduates / 指导本科**
