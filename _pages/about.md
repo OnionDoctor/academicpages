@@ -38,10 +38,15 @@ To improve the performance of the AECO industry in China by providing novel theo
 Our Group / 我们的成员
 -----
 
+
+**Graduates / 毕业硕士**
+- 2024
+  - MI Qingren / 米庆仁，浙江省选调
+
+
 **Postgraduates / 在读硕士**
 
 - 2021
-  - MI Qingren (Huaqiao University) / 米庆仁（华侨大学）
   - WANG Jianan (Northeast Agricultural University) / 王嘉楠（东北农业大学）
 
 - 2022
@@ -52,18 +57,13 @@ Our Group / 我们的成员
 - 2023
   - YAN Xiangjun (Shandong University) / 阎相君（山东大学）
   - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
-<<<<<<< HEAD
-  - LIU Hang (Harbin Institute of Technology, Shenzhen) / 刘行（哈尔滨工业大学（深圳））
-  - Sajib Sarkar (Southwest Petroleum University) / 宋一凡（西南石油大学） 
-=======
   - LIU Hang (HITSZ) / 刘行（哈尔滨工业大学（深圳））
   - SAJIB SARKAR (Southwest Petroleum University) / 宋一凡（西南石油大学）
->>>>>>> a11a4990c36823452ac20629c2d596c3fbb424e2
 
 
 **Master of Engineering / 工程管理硕士**
 
-- 2021
+- 2021  
   - ZHENG Yang / 郑杨
   - ZHANG Meng / 张孟
 
