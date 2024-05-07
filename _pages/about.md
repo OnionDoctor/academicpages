@@ -31,9 +31,9 @@ Our Mission / 我们的使命
 ![ce-welcome](/academicpages/images/pages/about/ce-welcome.jpg){:width="100%" .align-center}
 <!-- ![ce-welcome](/images/pages/about/ce-welcome.jpg){:width="100%" .align-center} -->
 
-To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, and future technical skills.
+To improve the performance of the AECO industry in China by providing novel theoretical and practical solutions, containing artificial internet of things, antonomous robots, deep learning, AIGC, and future technical skills.
 
-我们的使命是通过创新的理论和方法，包括智能物理网，机器人以及其他面向未来的技术，来切实提高中国建筑业的生产力和管理水平！
+我们的使命是通过创新的理论和方法，包括智能物联网，机器人，深度学习，AIGC以及其他面向未来的技术，来切实提高中国建筑业的生产力和管理水平！
 
 Our Group / 我们的成员
 -----
@@ -45,25 +45,21 @@ Our Group / 我们的成员
   - WANG Jianan (Northeast Agricultural University) / 王嘉楠（东北农业大学）
 
 - 2022
-  - ZHOU Zixuan (Harbin Insitute of Technology, Weihai) / 周子璇（哈尔滨工业大学（威海））
-  - MIN Jie (Harbin Insitute of Technology, Weihai) / 闵杰（哈尔滨工业大学（威海））
+  - ZHOU Zixuan (HITWH) / 周子璇（哈尔滨工业大学（威海））
+  - MIN Jie (HITWH) / 闵杰（哈尔滨工业大学（威海））
   - CHEN Yu (Wuhan University of Technology) / 陈豫（武汉理工大学）
 
 - 2023
-  - YAN Xiangjun (Shandong University) / 闫相君（山东大学）
+  - YAN Xiangjun (Shandong University) / 阎相君（山东大学）
   - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
+<<<<<<< HEAD
   - LIU Hang (Harbin Institute of Technology, Shenzhen) / 刘行（哈尔滨工业大学（深圳））
   - Sajib Sarkar (Southwest Petroleum University) / 宋一凡（西南石油大学） 
+=======
+  - LIU Hang (HITSZ) / 刘行（哈尔滨工业大学（深圳））
+  - SAJIB SARKAR (Southwest Petroleum University) / 宋一凡（西南石油大学）
+>>>>>>> a11a4990c36823452ac20629c2d596c3fbb424e2
 
-**Undergraduates / 在读本科**
-
-- 2022
-  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
-  - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
-  - YE Jingang (Tongji University) / 叶进刚 保送同济大学
-  
-- 2023
-  - HUANG Wuguang (HITSZ) / 黄武光 保送哈尔滨工业大学（深圳）
 
 **Master of Engineering / 工程管理硕士**
 
@@ -73,3 +69,21 @@ Our Group / 我们的成员
 
 - 2022
   - FENG Yuting / 冯宇霆
+  - LIU Zirong / 刘子榕
+
+
+**Research Assistants / 研究助理**
+
+- 2023
+  - PU Hongxu / 蒲虹旭
+
+
+**Undergraduates / 指导本科**
+
+- 2022
+  - LIU Hang (HITSZ) / 刘行 保送哈尔滨工业大学（深圳）
+  - JIN Xinxiang (Tsinghua University) / 金新翔 保送清华大学
+  - YE Jingang (Tongji University) / 叶进刚 保送同济大学
+  
+- 2023
+  - HUANG Wuguang (HITSZ) / 黄武光 保送哈尔滨工业大学（深圳）
