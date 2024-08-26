@@ -1,6 +1,6 @@
 ---
 title: "Automatic identification of hidden damages in aging buildings (On-going)"
-excerpt: "老旧房屋隐患自动化识别技术服务项目（在研）<br/><img src='/academicpages/images/projects/2022-aging-building/content.jpg'>"
+excerpt: "老旧房屋隐患自动化识别技术服务项目<br/><img src='/academicpages/images/projects/2022-aging-building/content.jpg'>"
 collection: portfolio
 ---
 
