@@ -58,7 +58,11 @@ Our Group / 我们的成员
   - YAN Xiangjun (Shandong University) / 阎相君（山东大学）
   - TANG Zhisong (Hunan University) / 汤至颂（湖南大学） 
   - LIU Hang (HITSZ) / 刘行（哈尔滨工业大学（深圳））
-  - SAJIB SARKAR (Southwest Petroleum University) / 宋一凡（西南石油大学）
+
+- 2024
+  - TAN Ruinan (Chongqing University) / 谭睿楠（重庆大学） 
+  - WANG Ningning (Hunan University) / 王宁宁（湖南大学）
+  - WU Yangfan (Jiangnan University) / 吴洋帆（江南大学）
 
 
 **Master of Engineering / 工程管理硕士**
